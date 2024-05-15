@@ -1,0 +1,351 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.n1{
+    width:vw;
+    height: 700px;
+   color: white;
+   display: flex;
+   background-image: url(image.jpg);
+   background-size: cover;
+   padding-top: 30px;
+   
+}
+/* .nb{
+    width: 100%;
+    position: fixed;
+    background-color: black;
+    
+} */
+.navbar{
+    height: 50px;
+    display: flex;
+    gap: 40px;
+   margin-left: 550px;
+  
+ 
+}
+.navbar a{
+    color: black;
+}
+.navbar a:hover{
+    color: orangered;
+}
+.btn h1{
+    text-align: end;
+}
+.n3 button{
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.n3 button:hover{
+    color: white;
+    background-color: orangered;
+    font-size: 20px;
+   
+}
+
+.i{
+    color: white;
+    width: 100%;
+    height: 600px;
+    background-image: url(image3.jpg);
+    background-size: cover;  
+}
+.i2{
+    width: 50%;
+    padding-top: 30px;
+    padding-left: 200px;
+  font-size: 50px;
+}
+.i2 span{
+    color: orangered;
+}
+.i3{
+    width: 50%;
+    padding-left: 50px;
+    margin-top: 30px;
+    font-size: 5px;
+}
+.ib{ 
+    margin-top: 20px;
+    padding-left: 100px;
+}
+.ib button{
+    width: 30%;
+    background-color: black;
+    height: 50px;
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+}
+.ib button:hover{
+    width: 30%;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+}
+.vo{
+    width: 100%;
+    height: 700px;
+    padding-left: 300px;
+    padding-top: 50px;
+    background-color:black;
+    color: white;
+}
+.video{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.v1{
+    padding-top: 60px;
+}
+.v2{
+    padding-top: 60px;
+}
+.v1 button{
+    margin-top: 30px;
+    width: 20%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.v1 button:hover{
+    margin-top: 30px;
+    width: 30%;
+    background-color:orangered;
+    color: white;
+}
+.v2 button{
+    margin-top: 30px;
+    width: 20%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+.v2 button:hover{
+    margin-top: 30px;
+    width: 30%;
+    background-color:orangered;
+    color: white;
+}
+.lb{
+    width: 100%;
+    height: 1200px;
+    background-color: black;
+    color: white;
+   
+}
+.lb1{
+    padding-left: 100px;
+    padding-top: 20px;
+    font-size: 10px;
+   padding-top: 50px;
+
+}
+.lb2{
+    width: 100%;
+    margin-top: 50px;
+    height: 500px;
+}
+.lb2 h1{
+    border-radius: 1%; 
+    color: white;
+}
+.lb3{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.b4{
+    width: 50%;
+    height: 600px;
+   margin-top: 40px;
+    background-image: url(boxer-with-boxing-gloves--black-background-.jpg);
+    background-size: cover;
+}
+.b4 h1{
+    text-align:center;
+    font-size: 60px;
+    padding-top: 560px;
+}
+.b5{
+    width: 50%;
+    height: 600px;
+    background-image: url(image6.jpg);
+    background-size: cover;
+    margin: 40px;
+}
+.b5 h1{
+    padding-top: 560px;
+    font-size: 60px;
+    text-align:center;
+}
+.lb4{
+    width: 100%;
+    height: 100px;
+   
+}
+.b6{
+    width:100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-top: -40px;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 50px;
+}
+.b7{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white; 
+    margin-top: -40px;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 50px;
+}
+.ib2 button{
+    width: 40%;
+    margin-top: 50px;
+    background-color:white;
+    color: black;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.ib2 button:hover{
+    width: 40%;
+    background-color: orangered;
+    color: white;
+    font-size: 30px;
+}
+.bb2{
+    margin-top: 200px;
+      width: 50%;
+      height:700px;
+      color: white;
+  }
+  .what{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+    color: white;
+    
+  }
+  .what1{
+    text-align: center;
+    padding-top: 50px;
+  }
+  .whatbox{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    gap: 30px;
+  }
+  .wbox1{
+    width: 30%;
+    height: 400px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+    color: white;
+
+  }
+  .wbox2{
+    width: 30%;
+    height: 400px;
+    background-color:white;
+    margin-top: 50px;
+    color: white;
+  }
+.boxx{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    display: flex;
+    color: white;
+}   
+.footer1{
+    width: 50%;
+    height: 500px;
+    margin-top: 150px;
+    padding-left: 100px;
+}
+.footer2{
+    width: 100%;
+    height: 500px;
+    font-size: 30px;
+    margin-top: 100px;
+ color: white; 
+ text-align: center;
+ 
+ 
+
+}
+.footer2 input{
+    width: 50%;
+    height: 50px;
+    border-radius: 30px;
+   margin-top: 50px; 
+   color: black;
+   padding-left: 20px;
+}
+.footer2 textarea{
+    border-radius: 30px;
+    margin-top: 50px;
+    padding-left: 20px;
+}
+.footer2 button {
+    width: 30%;
+    height: 40px;
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+.footer2 button:hover{
+    background-color: orangered;
+}
+.icon{
+    width: 50%;
+   /* padding-left: 50px; */
+   margin-left: 150px;
+   margin-top: 20px;
+  
+}
+.icon a{
+    display: inline-flex;
+    justify-content: center;
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background: transparent;
+    border: 2px solid orangered;
+    border-radius: 50%;
+    font-size: 18px;
+    color:white;
+    padding-top: 13px; 
+    margin: 15px 25px 15px 0px;
+    text-decoration: none;
+  margin-left: 10px;
+  background-color: orangered;
+    
+}
+.icon a:hover{
+    box-shadow: 0 0 20px orangered;
+}
+.r{
+    width: 100%;
+    height: 100px;
+    font-size: 30px;
+    text-align: center;
+}
